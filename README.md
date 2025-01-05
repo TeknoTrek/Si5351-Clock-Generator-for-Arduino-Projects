@@ -29,6 +29,8 @@ The schematic includes:
 
 ![PCB Layout](https://raw.githubusercontent.com/TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects/refs/heads/main/Si5351-Signal-Generator/images/f_cu_screen.jpg)
 
+![PCB Layout](https://raw.githubusercontent.com/TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects/refs/heads/main/Si5351-Signal-Generator/images/pcb.jpg)
+
 The PCB is designed to accommodate:
 - **Si5351 Module**
 - **OLED Display**
