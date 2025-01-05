@@ -82,7 +82,7 @@ The Arduino sketch for this project initializes the Si5351 module and OLED displ
 ## Demo
 Check out the video demonstration of the project on our YouTube channel:
 
-📺 **[Teknotrek YouTube Channel](https://www.youtube.com/@Teknotrek)**
+📺 **[Teknotrek YouTube Channel](https://youtu.be/GfB7mTY67xE)**
 
 ---
 
